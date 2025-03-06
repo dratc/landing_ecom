@@ -1,0 +1,196 @@
+{
+  "sections": [
+    {
+      "name": "top_section_area",
+      "content": {
+        "left_side": {
+          "title": "মধু বলতেই সুন্দরবনের মিশ্র ফুলের প্রাকৃতিক খাঁটি মধু অন্যতম.",
+          "description": "(মৌমাছি) তার পোট থেকে বিভিন্ন রঙে পানীয় নির্ধত হয়। আগাচে মানু্যুহর জন্য রয়েছে দেয়া। (সুরা নাহল, আয়াত-১৯)",
+          "subtitle": "মধু হল মহান সৃষ্টিকর্তী প্রমত্ত প্রাকতিক এ্যান্টিবায়োটিক।",
+          "rating": "★★★★★",
+          "contact": {
+            "order_button": "অর্ডার করুন",
+            "whatsapp_link": "mhttps://wa.me/+880 1824-222653",
+            "call_link": "tel:+880 1824-222653"
+          }
+        },
+        "right_side": {
+          "video_thumbnail": "https://sunglass.mohasagorit.solutions/public//storage/images/page/organic/D3LVMr4YXUxo9buCLqVOxmT7P75Hwn7WR06ovKr5.jpg",
+          "video_link": "https://www.youtube.com/embed/njX2bu-_Vw4"
+        }
+      }
+    },
+    {
+      "name": "product_image_area",
+      "content": {
+        "slider": [
+          {
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739081601_1976.jpg",
+            "alt": "Natural Honey (প্রাকৃতিক চাকের মধু)"
+          },
+          {
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739081551_4286.jpg",
+            "alt": "কালোজিরা ফুলের মধুর !"
+          },
+          {
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739081477_8423.jpg",
+            "alt": "সরিষা ফুলের মধু / Mustard Flower Raw Honey ( 1kg )"
+          },
+          {
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739080977_7154.jpg",
+            "alt": "সুন্দরবনের খাঁটি মধু ১ কেজি !"
+          }
+        ],
+        "order_button": "অর্ডার করতে ক্লিক করুন"
+      }
+    },
+    {
+      "name": "product_description_area",
+      "content": {
+        "description": "প্রায় ৪০টি রামা উলামান থাকে। ফুলের বর‍্যারর মধুতে থাকে ২৫ থেকে ০৭. পরাণে ব্লুকোজ, ০৩৪ থোক ৪০ শতাংশ মারাজ, ০০ থেকে ৩০০ পরাংশ মুক্তোজ এবং ৫ থেকে ২২ পরাংগামান্টীক। আরও থাকে ২২ শভাগে আমায়ানা অ্যাসিড, ২৮ শতাংশ খনিজ লবণ এব শতাংগায়নকামি। এতে চরি ও প্রাটিন নেই। 100 গ্রাম মধুতে থাকে ২৮৮ ক্যালোরি"
+      }
+    },
+    {
+      "name": "product_descriptions",
+      "content": {
+        "title": "সুন্দরবনের খাঁটি মধু !",
+        "description": "সুন্দরবন, বিশ্বের বৃহত্তম ম্যানগ্রোভ বন, এক অনন্য প্রাকৃতিক বিস্ময়। গহীন সবুজে ঢাকা এই বন যেন প্রকৃতির এক অপার সৌন্দর্যের আধার। বাঘ, হরিণ, কুমির, ডলফিনসহ অসংখ্য বন্যপ্রাণীর আশ্রয়স্থল এটি। নদী, খাঁড়ি ও জলাভূমির জটিল জাল ছেয়ে আছে সারা বনজুড়ে, যেখানে লুকিয়ে আছে প্রকৃতির অমিয় সুর। হাওয়ায় ভাসে কেওড়া-গরান গাছের সুবাস, আর সকাল-বিকেল বাঘের পায়ের ছাপ জানান দেয় তার অস্তিত্ব। সোনালী রোদ্দুরে ঝিলমিল করে পানির ঢেউ, বনের নিস্তব্ধতা ভেঙে কখনো বাজপাখির ডানা মেলে উড়ে যাওয়া। রহস্যে ঘেরা এই বন প্রকৃতিপ্রেমীদের কাছে এক স্বর্গরাজ্য।"
+      }
+    },
+    {
+      "name": "features_section_area",
+      "content": {
+        "title": "কেন আমরাই সেরা ?",
+        "features": [
+          {
+            "icon": "fa-regular fa-circle-check",
+            "title": "আমাদের মধু কীভাবে সংগ্রহ করা হয়?",
+            "description": "অভিজ্ঞ মৌয়ালরা সুন্দরবনের গভীরে গিয়ে মৌচাক থেকে মধু সংগ্রহ করেন। প্রক্রিয়াজাত করার সময় কোনো অতিরিক্ত উপাদান মেশানো হয় না, যাতে এর স্বাদ ও পুষ্টিগুণ অক্ষুণ্ণ থাকে।"
+          },
+          {
+            "icon": "fa-regular fa-circle-check",
+            "title": "আমাদের মধুর উপকারিতা কী?",
+            "description": "আমাদের মধু রোগ প্রতিরোধ ক্ষমতা বাড়ায়, হজমশক্তি উন্নত করে, ত্বক ও চুলের যত্নে দারুণ কার্যকর এবং প্রাকৃতিক এনার্জি বুস্টার হিসেবে কাজ করে।"
+          },
+          {
+            "icon": "fa-regular fa-circle-check",
+            "title": "কোনো প্রিজারভেটিভ নেই!",
+            "description": "বাজারের অন্যান্য মধুর মতো কেমিক্যাল বা সংরক্ষণকারী উপাদান ব্যবহার করা হয় না, তাই এটি সম্পূর্ণ নিরাপদ ও স্বাস্থ্যকর।"
+          },
+          {
+            "icon": "fa-regular fa-circle-check",
+            "title": "সাশ্রয়ী মূল্য ও দ্রুত ডেলিভারি!",
+            "description": "আমরা ন্যায্য মূল্যে খাঁটি মধু সরবরাহ করি এবং দেশের যেকোনো স্থানে দ্রুত ডেলিভারি নিশ্চিত করি।"
+          }
+        ]
+      }
+    },
+    {
+      "name": "customer_review_area",
+      "content": {
+        "title": "Customer Reviews",
+        "reviews": [
+          {
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739081146_8803.jpg",
+            "alt": "Customer Review Image"
+          },
+          {
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739081146_1404.jpg",
+            "alt": "Customer Review Image"
+          },
+          {
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739081146_3989.jpg",
+            "alt": "Customer Review Image"
+          },
+          {
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739081146_2458.jpg",
+            "alt": "Customer Review Image"
+          },
+          {
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739082005_5002.jpg",
+            "alt": "Customer Review Image"
+          },
+          {
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739082005_6662.jpg",
+            "alt": "Customer Review Image"
+          }
+        ]
+      }
+    },
+    {
+      "name": "landing_page_cart_area",
+      "content": {
+        "title": "আপনার প্রয়োজন অনুযায়ী পরিমান সিলেক্ট করুন!",
+        "products": [
+          {
+            "id": "19",
+            "name": "Natural Honey (প্রাকৃতিক চাকের মধু)",
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739081601_1976.jpg",
+            "price": "900TK"
+          },
+          {
+            "id": "18",
+            "name": "কালোজিরা ফুলের মধুর !",
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739081551_4286.jpg",
+            "price": "1050TK"
+          },
+          {
+            "id": "17",
+            "name": "সরিষা ফুলের মধু / Mustard Flower Raw Honey ( 1kg )",
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739081477_8423.jpg",
+            "price": "790TK"
+          },
+          {
+            "id": "10",
+            "name": "সুন্দরবনের খাঁটি মধু ১ কেজি !",
+            "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739080977_7154.jpg",
+            "price": "1590TK"
+          }
+        ],
+        "checkout_form": {
+          "billing_details": {
+            "mobile_no": "মোবাইল নাম্বার দিন",
+            "name": "আপনার নাম",
+            "shipping_area": {
+              "options": [
+                {
+                  "value": "10",
+                  "label": "Inside Dhaka (70Tk)"
+                },
+                {
+                  "value": "11",
+                  "label": "Dhaka Sub Area (150 Tk)"
+                },
+                {
+                  "value": "12",
+                  "label": "Outside Dhaka (130 Tk)"
+                }
+              ]
+            },
+            "address": "আপনার সম্পূর্ণ ঠিকানা"
+          },
+          "order_summary": {
+            "subtotal": "TK 0",
+            "shipping_charge": "0 TK",
+            "total_amount": "TK 0"
+          },
+          "order_button": "অর্ডার কনফার্ম করুন"
+        }
+      }
+    },
+    {
+      "name": "images_footer_top",
+      "content": {
+        "image": "https://peacefulqode.co.in/themes/melipona/html/images/background/honey-bee-footer.png",
+        "alt": "Images"
+      }
+    },
+    {
+      "name": "product_gallery_area",
+      "content": {
+        "title": "প্রাকৃতিক খাঁটি মধু",
+        "description": "মধু প্রকৃতির এক অমূল্য উপহার, যার স্বাদে ও গুণে মানুষ মোহিত হয় প্রাচীনকাল থেকে। মৌমাছির অক্লান্ত পরিশ্রমে সংগৃহীত এই সোনালী তরল শুধু স্বাদেই নয়, পুষ্টিগুণেও অতুলনীয়। সুন্দরবনের খাঁটি মধু বিশেষভাবে প্রসিদ্ধ, কারণ এটি গরান, কেওড়া, নিশিন্দা ফুলের মিশ্র রস থেকে তৈরি হয়, যা স্বাদে ও গন্ধে অনন্য। প্রাকৃতিক অ্যান্টিসেপ্টিক হিসেবে মধুর উপকারিতা অসীম—এটি রোগ প্রতিরোধ ক্ষমতা বাড়ায়, হজম শক্তি উন্নত করে এবং ত্বকের জন্যও দারুণ উপকারী। চায়ের সাথে, রুটিতে কিংবা সরাসরি, যেভাবেই গ্রহণ করা হোক, মধু সবসময়ই এক স্বাদ ও পুষ্টির মিষ্টি আশীর্বাদ।"
+      }
+    }
+  ]
+}
